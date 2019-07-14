@@ -1,2 +1,2 @@
 # Healthy
-An application where on have to enter your weight et you know you must eat !
+An application where on have to enter your weight et you know what you must eat !
